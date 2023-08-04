@@ -5,7 +5,7 @@ This project implements a Naive Bayes classifier that preprocesses and trains on
 
 - python 3.10
 - numpy 1.24.3
-- WSL (Ubuntu 22.04.1 LTS)
+- WSL (Ubuntu 22.04.1 LTS) or similar
 
 <h2> Steps to Run: </h2>
 <ol>
